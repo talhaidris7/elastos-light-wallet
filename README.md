@@ -26,7 +26,7 @@ sha256sum <App.AppImage>
 
 If the usb build fails, it may be because building from source is broken, try
 ```
-npm install node
+npm install node@8.15.0
 ```
 
 To run in dev mode:
